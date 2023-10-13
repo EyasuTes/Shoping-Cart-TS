@@ -1,0 +1,26 @@
+[
+    {
+        "id":1,
+        "name": "suzuki-x90",
+        "price": 4000,
+        "imgurl": "/images/suzuki-x90.jpg"
+    },
+    {
+        "id":2,
+        "name": "Nissan 350z",
+        "price": 8000,
+        "imgurl": "/images/350z.jpg"
+    },
+    {
+        "id":3,
+        "name": "Lexus LS430",
+        "price": 10000,
+        "imgurl": "/images/LS430.webp"
+    },
+    {
+        "id":4,
+        "name": "Mitsubishi Pajero",
+        "price": 4000,
+        "imgurl": "/images/pajero.jpg"
+    }
+]
